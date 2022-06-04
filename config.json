@@ -1,0 +1,14 @@
+{
+    "ip": "game5.falix.cc",
+    "port": 59411,
+    "name": "HotCatBot",
+    "auto-night-skip": "false",
+    "join-msg": "HotCatBot by fourrem",
+    "join-msg-on": "true",
+    "custom-message-enabled": "true",
+    "custom-message-1": "HotCatBot by fourrem",
+    "custom-message-2": "HotCatBot by fourrem",
+    "login-enabled": "true",
+    "register-cmd": "/register bebra1 bebra1",
+    "login-cmd": "/login bebra1"
+}
